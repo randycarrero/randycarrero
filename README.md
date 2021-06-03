@@ -1,7 +1,8 @@
-- 👋 Hi, I’m @randycarrero
-- 👀 I’m interested in many hobys including woodworking, coding & graphic design. 
-- 🌱 I’m currently learning flutter.
-- 💞️ I’m looking to collaborate on my project gunpla database. 
+- 👋 Hi, I am Randy carrero.
+- 👀 I am interested in many hobby is including woodworking, coding & graphic design. 
+- 🌱 I am currently learning flutter.
+- 💞️ I am looking for collaborators on my project Gunpla database flutter project.
+
 
 <!---
 randycarrero/randycarrero is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
